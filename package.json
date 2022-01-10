@@ -1,0 +1,17 @@
+{
+  "name": "promise-impl",
+  "version": "1.0.0",
+  "description": "promise simple implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests PromiseImpl.js"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Yx-2018",
+  "license": "ISC",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
